@@ -1,0 +1,13 @@
+c:\users\student\documents\visual studio 2015\Projects\Pay\Pay\bin\Debug\Pay.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Pay\Pay\bin\Debug\Pay.exe
+c:\users\student\documents\visual studio 2015\Projects\Pay\Pay\bin\Debug\Pay.pdb
+c:\users\student\documents\visual studio 2015\Projects\Pay\Pay\obj\Debug\Pay.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Pay\Pay\obj\Debug\Pay.exe
+c:\users\student\documents\visual studio 2015\Projects\Pay\Pay\obj\Debug\Pay.pdb
+C:\Users\Jarek\source\repos\Pay\Pay\bin\Debug\Pay.exe.config
+C:\Users\Jarek\source\repos\Pay\Pay\bin\Debug\Pay.exe
+C:\Users\Jarek\source\repos\Pay\Pay\bin\Debug\Pay.pdb
+C:\Users\Jarek\source\repos\Pay\Pay\obj\Debug\Pay.csprojAssemblyReference.cache
+C:\Users\Jarek\source\repos\Pay\Pay\obj\Debug\Pay.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\source\repos\Pay\Pay\obj\Debug\Pay.exe
+C:\Users\Jarek\source\repos\Pay\Pay\obj\Debug\Pay.pdb
